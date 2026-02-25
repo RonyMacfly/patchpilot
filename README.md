@@ -1,4 +1,4 @@
-# tolerant-diff-applier
+# PatchPilot
 
 A tolerant unified-diff applier in Python — designed for messy AI/chat-generated patches that `git apply` often rejects.
 
