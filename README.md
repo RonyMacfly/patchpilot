@@ -59,4 +59,4 @@ Use this when:
 No package install required — it’s a single script.
 
 ```bash
-python3 apply_diff.py --help
+python3 diff.py --help
